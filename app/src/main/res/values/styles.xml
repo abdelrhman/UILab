@@ -8,5 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="myStyle">
+        <item name="android:textColor">@color/colorGreen</item>
+    </style>
+
 
 </resources>
